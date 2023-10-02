@@ -2,7 +2,7 @@
 // Write your code here
 const num1 = 62;
 const num2 = 1;
-const num3 = 19;
+const num3 = 34;
 const num4 = 5;
 
 const multiply = num1 * num2;
